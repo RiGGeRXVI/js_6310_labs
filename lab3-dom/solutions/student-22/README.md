@@ -38,3 +38,22 @@
 Внутренний контент — фон #A6E3E9, граница 3px solid #3A86FF, скругление 10px, padding 5px
 Навигационные элементы — фон #16b9ff
 Кнопки - фон #A6E3E9, текст белый, без границы, скругление 5px, padding 3px, margin 3px
+
+# Примеры
+## До:
+
+<img src="images/Before1.png">
+<img src="images/Before2.png">
+<img src="images/Before3.png">
+<img src="images/Before4.png">
+<img src="images/Before5.png">
+<img src="images/Before6.png">
+
+## После
+
+<img src="images/After1.png">
+<img src="images/After2.png">
+<img src="images/After3.png">
+<img src="images/After4.png">
+<img src="images/After5.png">
+<img src="images/After6.png">
