@@ -1,0 +1,10 @@
+{
+    "players":[
+        { "name": "Tung Tung Sahur", "wins": 5},
+        { "name": "Player123", "wins": 2}
+    ],
+    "history":[
+        { "date": "2025-11-01", "winner": "Tung Tung Sahur"},
+        { "date": "2025-10-29", "winner": "Player123"}
+    ]
+}
