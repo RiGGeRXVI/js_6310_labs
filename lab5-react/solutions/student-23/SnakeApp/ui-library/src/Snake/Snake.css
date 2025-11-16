@@ -1,0 +1,5 @@
+.snake-segment {
+  position: absolute;
+  border: 1px solid #1d1d1d;
+  box-sizing: border-box;
+}
