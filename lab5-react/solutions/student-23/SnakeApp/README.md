@@ -10,15 +10,15 @@ frontend — веб-приложение React, использующее ui-libr
 ## Устновка и запуск
 1. Клонируйте репозиторий и перейдите в папку проекта
 2. Установите зависимости для обоих пакетов:
-    cd ui-library
-    npm install
-    npm run build
+    `cd ui-library`
+    `npm install`
+    `npm run build`
 
-    cd ../frontend
-npm install
+    `cd ../frontend`
+    `npm install`
 3. Запустите dev-сервер для фронтенда:
-    npm run dev
-4. Откройте браузер и перейдите на http://localhost:5173
+    `npm run dev`
+4. Откройте браузер и перейдите на `http://localhost:5173`
     Вы увидите игровое поле со змеями, которые движутся и управляются с клавиатуры.
 
 ## Управление
@@ -30,18 +30,12 @@ npm install
 ## Скрипты проекта
 
 Оба пакета (ui-library и frontend) поддерживают следующие команды:
-
-    npm run dev — запуск в режиме разработки
-
-    npm run build — сборка проекта
-
-    npm run lint — проверка ESLint
-
-    npm run lint:fix — исправление нарушений ESLint
-
-    npm run test — запуск тестов Jest
-
-    npm run test:coverage — запуск тестов с отчётом покрытия кода
+    `npm run dev` — запуск в режиме разработки
+    `npm run build` — сборка проекта
+    `npm run lint` — проверка ESLint
+    `npm run lint:fix` — исправление нарушений ESLint
+    `npm run test` — запуск тестов Jest
+    `npm run test:coverage` — запуск тестов с отчётом покрытия кода
 
 ## Скриншот с сайта
 <img src="Readme-images/Screenshot.png>

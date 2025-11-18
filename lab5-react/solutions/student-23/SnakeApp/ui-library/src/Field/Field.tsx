@@ -1,4 +1,5 @@
 import React from 'react'
+
 import { Snake, Position } from '../Snake/Snake'
 import './Field.css'
 
