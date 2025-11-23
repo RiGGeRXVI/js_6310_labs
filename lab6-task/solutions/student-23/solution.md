@@ -1,0 +1,1 @@
+ссылка на пулл реквест: https://github.com/RiGGeRXVI/Snake_React/pull/1
