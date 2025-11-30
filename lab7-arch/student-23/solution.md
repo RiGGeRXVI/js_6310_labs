@@ -1,0 +1,1 @@
+Ссылка на pull request: https://github.com/RiGGeRXVI/Snake_React/pull/2
