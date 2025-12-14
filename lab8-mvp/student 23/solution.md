@@ -1,1 +1,2 @@
-Ссылка на pull request: ```https://github.com/RiGGeRXVI/Snake_React/pull/3```
+Ссылка на репозиторий: ```https://github.com/RiGGeRXVI/Snake_React```
+В ветке main находится MVP проекта.
